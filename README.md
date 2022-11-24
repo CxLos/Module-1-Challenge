@@ -17,6 +17,10 @@ N/A
 
 The Usage of this website is very simple; just click the link and check out it's improved accessibility!
 
+https://cxlos.github.io/Module-1-Challenge/
+
+![Module 1](./assets/images/Horiseon-screenshot.png)
+
 ## License
 
 MIT License
