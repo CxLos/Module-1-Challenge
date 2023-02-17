@@ -19,7 +19,7 @@ The Usage of this website is very simple; just click the link and check out it's
 
 https://cxlos.github.io/Module-1-Challenge/
 
-![Module 1](./assets/images/Horiseon-screenshot.png)
+![Module 1](./assets/images/horiseon-screenshot.png)
 
 ## License
 
